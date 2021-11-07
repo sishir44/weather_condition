@@ -30,6 +30,7 @@ input[type="submit"]{
   font-family: "Nunito",sans-serif;
   font-weight:bold;
   font-size: 20px;
+  cursor: pointer;
 }
 
 .input input[type="text"]{
